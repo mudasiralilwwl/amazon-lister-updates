@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "releaseNotes": "Fixed Shopify authentication popup with automatic silent token refresh. Added Replicate Images tool with photo manager.",
+  "version": "1.2.2",
+  "releaseNotes": "Added Barcode/EAN field, smart 6-digit HS Code suggestions, preselected China COO, and direct editable text for specifications and features.",
   "downloadUrl": "https://drive.google.com/drive/folders/12yvvhPrZHH9GTzxUe98YQFEVSnwD-QsU"
 }
