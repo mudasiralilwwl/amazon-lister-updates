@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "releaseNotes": "Added Barcode/EAN field, smart 6-digit HS Code suggestions, preselected China COO, and direct editable text for specifications and features.",
+  "version": "1.2.3",
+  "releaseNotes": "Added Master Inventory Sheet SKU Auto-Lookup (15,983 SKUs), Unit Price cost sync, Short Name under picture metafield, and Rich Text Formatting toolbar.",
   "downloadUrl": "https://drive.google.com/drive/folders/12yvvhPrZHH9GTzxUe98YQFEVSnwD-QsU"
 }
