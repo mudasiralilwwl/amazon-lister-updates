@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "name": "Amazon to Shopify 1-Click Lister",
-  "releaseNotes": "Auto-resolves store domains to srv-hub.myshopify.com silently in settings and API calls, preventing connection failures when custom domains are entered.",
+  "releaseNotes": "Fixed Shopify Admin API connection by routing network calls through the background service worker, completely resolving browser CORS and Failed to Fetch errors.",
   "downloadUrl": "https://drive.google.com/drive/folders/12yvvhPrZHH9GTzxUe98YQFEVSnwD-QsU"
 }
