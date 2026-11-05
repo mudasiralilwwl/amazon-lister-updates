@@ -1,5 +1,6 @@
 {
-  "version": "1.2.7",
+  "version": "1.2.8",
+  "name": "Amazon to Shopify 1-Click Lister",
   "downloadUrl": "https://drive.google.com/drive/folders/12yvvhPrZHH9GTzxUe98YQFEVSnwD-QsU",
-  "notes": "v1.2.7: Added SRV Hub compulsory listing fields (Product Code on product & variant, RRP, Cost Price, Weight in grams, COO, unique SKU validation), live compulsory checklist bar, and automatic Draft fallback."
+  "releaseNotes": "v1.2.8: Compulsory Packaged Dimensions (L × W × H in cm) & Weight (g) with prominent RED double-check alert badge, auto-fetch from Master SKU Catalog, and Draft-mode protection."
 }
